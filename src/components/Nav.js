@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 function Nav() {
   return (
     <nav className="navbar navbar-expand-md navbar-light fixed-top bg-light">
-      <div className="navbar-brand">Aryan Tripathi</div>
+      <div className="navbar-brand">Parmarth Pandey</div>
       <button
         className="navbar-toggler"
         type="button"
